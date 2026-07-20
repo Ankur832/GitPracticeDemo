@@ -7,6 +7,7 @@ namespace GitPracticeDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Git Practice!");
+            Console.WriteLine("This is my first Git commit.");
             Console.WriteLine("Today I am learning Git and GitHub.");
 
             int a = 20;
