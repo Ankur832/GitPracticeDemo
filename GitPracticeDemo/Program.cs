@@ -9,7 +9,7 @@ namespace GitPracticeDemo
             Console.WriteLine("Welcome to Git Practice!");
             Console.WriteLine("This is my second Git commit.");
             Console.WriteLine("Learning Git step by step.");
-            Console.WriteLine("Today I am learning Git and GitHub.");
+            Console.WriteLine("This line was added from GitHub..");
 
             int a = 20;
             int b = 30;
